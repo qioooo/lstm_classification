@@ -1,5 +1,5 @@
 """Human activity recognition using LSTM RNN."""
-
+"""upload to github"""
 import tensorflow as tf
 import dataset
 import dataset_ucf
